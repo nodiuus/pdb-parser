@@ -7,4 +7,4 @@ if not then run the following in a command prompt with administrative privileges
 regsvr32 msdia140.dll
 ```
 
-make sure to also link ```diaguids.lib``` from visual studio's DIA SDK folder
+make sure to also link ```diaguids.lib``` from Visual Studio's DIA SDK folder
